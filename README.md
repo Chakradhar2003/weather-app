@@ -22,7 +22,7 @@ Website Link: [here](https://weather-app-black-theta.vercel.app/)
 - Google Maps API
 
 ## Usage
--Open the WeatherMap application in your web browser.
--Click on the map to view the weather information for that specific location.
--Alternatively, you can search for a location using the search bar to get its weather details.
+- Open the WeatherMap application in your web browser.
+- Click on the map to view the weather information for that specific location.
+- Alternatively, you can search for a location using the search bar to get its weather details.
 
